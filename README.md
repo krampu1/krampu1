@@ -1,4 +1,7 @@
 ## Hi there 👋
+## I'm Aktimer Mamataliev
+### C++ and Python Developer
+## [CV](./Актимер_Резюме.pdf)
 
 <!--
 **krampu1/krampu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
